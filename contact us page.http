@@ -1,0 +1,6 @@
+@contact_us_page_HostAddress = http://localhost:5130
+
+GET {{contact_us_page_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
